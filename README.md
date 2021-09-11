@@ -8,9 +8,9 @@ This flutter project uses first generation pokemon API to show it`s pokemon, als
 # Screenshots
 
 <p align="center">
-<img src="https://i.imgur.com/2lczjRi.png" width="370" height="640">
-<img src="https://i.imgur.com/7zMHZdf.png" width="370" height="640">
-<img src="https://i.imgur.com/J7IDLeY.png" width="370" height="640">
+<img src="https://i.imgur.com/2lczjRi.png" width="330" height="590">
+<img src="https://i.imgur.com/7zMHZdf.png" width="330" height="590">
+<img src="https://i.imgur.com/J7IDLeY.png" width="330" height="590">
 </p>  
   
 
