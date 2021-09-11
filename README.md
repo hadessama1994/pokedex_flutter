@@ -1,16 +1,53 @@
-# pokedex
+[![GitHub license](https://img.shields.io/github/license/hadessama1994/chat_app)](https://github.com/hadessama1994/chat_app) 
 
-A new Flutter project.
 
-## Getting Started
+# Pokedex Fluuer
 
-This project is a starting point for a Flutter application.
+This flutter project uses first generation pokemon API to show it`s pokemon, also using GetX to manage the application states.
 
-A few resources to get you started if this is your first Flutter project:
+# Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p align="center">
+<img src="https://i.imgur.com/2lczjRi.png" width="370" height="640">
+<img src="https://i.imgur.com/7zMHZdf.png" width="370" height="640">
+<img src="https://i.imgur.com/J7IDLeY.png" width="370" height="640">
+</p>  
+  
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+* [Features](#features)
+* [Built With](#built-with)
+* [License](#license)
+
+
+## Features
+
+- Show all 151 Pokemon
+- Pokemon detailed page
+- Search function to be implemented
+---
+
+## Built With
+Major Features:
+
+- [Flutter](https://github.com/flutter/flutter)
+- [GetX]
+
+## Depedencies
+
+  - cupertino_icons: ^1.0.2
+  - get: ^4.1.4
+  - google_fonts: ^2.0.0
+  - http: ^0.13.3
+  - cached_network_image: ^3.0.0
+  - simple_animations: ^3.1.1
+
+## License
+>You can check out the full license [here](https://github.com/IgorAntun/node-chat/blob/master/LICENSE)
+
+This project is licensed under the terms of the **MIT** license.
