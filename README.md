@@ -1,7 +1,7 @@
 [![GitHub license](https://img.shields.io/github/license/hadessama1994/chat_app)](https://github.com/hadessama1994/chat_app) 
 
 
-# Pokedex Fluuer
+# Pokedex Flutter
 
 This flutter project uses first generation pokemon API to show it`s pokemon, also using GetX to manage the application states.
 
